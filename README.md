@@ -19,4 +19,4 @@
 - **Фреймворки**: Play, Akka
 - **Инструменты**: Mininet, Intellij IDEA, RFC
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/AlexOv333)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOv333&layout=compact)](https://github.com/AlexOv333)
