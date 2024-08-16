@@ -21,3 +21,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOv333&layout=compact)](https://github.com/AlexOv333)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/ov_alex)
