@@ -20,5 +20,3 @@
 - **Инструменты**: Mininet, Intellij IDEA, RFC
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOv333&layout=compact)](https://github.com/AlexOv333)
-
-[![ov_alex's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ov_alex)](https://github.com/Alex_Ov333)
