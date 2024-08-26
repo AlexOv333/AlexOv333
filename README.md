@@ -22,9 +22,10 @@
 
 <div align="center">
   <a href="https://github.com/AlexOv333">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOv333&layout=compact" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOv333&layout=compact" alt="Top Langs" width="400"/>
   </a>
   <a href="https://leetcode.com/ov_alex">
-    <img src="https://leetcard.jacoblin.cool/ov_alex" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/ov_alex" alt="LeetCode Stats" width="400"/>
   </a>
 </div>
+
