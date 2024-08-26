@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/AlexOv333">Мой GitHub</a> •
-  <a href="">TG?</a> •
+  <a href="https://t.me/ZeRgRuSh333">Telegram</a> •
   <a href="mailto:ovchinnikovalex2002@yandex.ru">Email</a>
 </p>
 
@@ -17,7 +17,7 @@
 
 - **Языки программирования**: Scala, Python, P4
 - **Фреймворки**: Play, Akka
-- **Инструменты**: Mininet, Intellij IDEA, RFC
+- **Инструменты**: Mininet, Intellij IDEA, RFC, Wireshark, 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOv333&layout=compact)](https://github.com/AlexOv333)
 
