@@ -20,5 +20,11 @@
 - **Фреймворки**: Play, Akka
 - **Инструменты**: Mininet, Intellij IDEA, RFC, Wireshark, 
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOv333&layout=compact)](https://github.com/AlexOv333) | ![Leetcode Stats](https://leetcard.jacoblin.cool/ov_alex) |
-| --- | --- |
+<div align="center">
+  <a href="https://github.com/AlexOv333">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOv333&layout=compact" alt="Top Langs" />
+  </a>
+  <a href="https://leetcode.com/ov_alex">
+    <img src="https://leetcard.jacoblin.cool/ov_alex" alt="LeetCode Stats" />
+  </a>
+</div>
