@@ -1,11 +1,12 @@
 <h1 align="center">Hi there, I'm Alex 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student from Russia 🇷🇺</h3>
+<h3 align="center">Network engineer student from Russia 🇷🇺</h3>
 
 <p align="center">
   <a href="https://github.com/AlexOv333">Мой GitHub</a> •
   <a href="https://t.me/ZeRgRuSh333">Telegram</a> •
   <a href="mailto:ovchinnikovalex2002@yandex.ru">Email</a>
+  <a href="https://hh.ru/resume/31bdb529ff0d23fad80039ed1f46737a646c39">HH.ru</a>
 </p>
 
 ## 🚀 Проекты
